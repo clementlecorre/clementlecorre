@@ -7,7 +7,7 @@ I mostly like to work Kubernetes and container technology stacks 🐳 or cloud p
 
 I spend my time working on different projects like [Argo](https://argoproj.github.io) or [Linkerd](https://linkerd.io) or create DevOps apps in Golang.
 
-See more on : https://❤️☁️.ws
+See more on : http://❤️☁️.ws
 
 My publications ✍️ : 
 
