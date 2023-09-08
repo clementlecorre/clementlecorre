@@ -11,8 +11,8 @@ See more on : http://❤️☁️.ws
 
 My publications ✍️ : 
 
-* [Produce apartment renderings with Blender and Argo on AWS machines with high scalability](https://www.habx.com/tech/bakes-argo)
+* [Produce apartment renderings with Blender and Argo on AWS machines with high scalability](http://❤️☁️.ws)
 
-* [Scheduled & distributed Cypress tests for multiple environments & clients with Argo](https://www.habx.com/tech/cypress-argo)
+* [Scheduled & distributed Cypress tests for multiple environments & clients with Argo](http://❤️☁️.ws)
 
-*  [Tool to make graphQL queries easily](https://www.habx.com/tech/graphcurl)
+*  [Tool to make graphQL queries easily](http://❤️☁️.ws)
